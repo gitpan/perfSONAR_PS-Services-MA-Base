@@ -1,6 +1,6 @@
 package perfSONAR_PS::Services::MA::General;
 
-use version; our $VERSION = qv("0.01");
+our $VERSION = 0.01;
 
 use warnings;
 use Exporter;
